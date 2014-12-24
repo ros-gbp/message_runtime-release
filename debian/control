@@ -1,0 +1,12 @@
+Source: ros-jade-message-runtime
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://ros.org/wiki/message_runtime
+Standards-Version: 3.9.2
+
+Package: ros-jade-message-runtime
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-cpp-common, ros-jade-genpy, ros-jade-roscpp-serialization, ros-jade-roscpp-traits, ros-jade-rostime
+Description: Package modeling the run-time dependencies for language bindings of messages.
