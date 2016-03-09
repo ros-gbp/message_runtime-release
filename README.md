@@ -1,3 +1,26 @@
+## message_runtime (kinetic) - 0.4.12-0
+
+The packages in the `message_runtime` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic message_runtime` on `Wed, 09 Mar 2016 19:12:33 -0000`
+
+The `message_runtime` package was released.
+
+Version of package(s) in repository `message_runtime`:
+
+- upstream repository: https://github.com/ros/message_runtime.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.4.12-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## message_runtime (jade) - 0.4.12-0
 
 The packages in the `message_runtime` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade message_runtime` on `Wed, 24 Dec 2014 00:53:39 -0000`
