@@ -1,3 +1,26 @@
+## message_runtime (lunar) - 0.4.12-0
+
+The packages in the `message_runtime` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar message_runtime` on `Wed, 22 Feb 2017 19:49:34 -0000`
+
+The `message_runtime` package was released.
+
+Version of package(s) in repository `message_runtime`:
+
+- upstream repository: https://github.com/ros/message_runtime.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.4.12-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## message_runtime (kinetic) - 0.4.12-0
 
 The packages in the `message_runtime` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic message_runtime` on `Wed, 09 Mar 2016 19:12:33 -0000`
