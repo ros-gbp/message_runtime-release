@@ -1,0 +1,12 @@
+Source: ros-lunar-message-runtime
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://ros.org/wiki/message_runtime
+Standards-Version: 3.9.2
+
+Package: ros-lunar-message-runtime
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-cpp-common, ros-lunar-genpy, ros-lunar-roscpp-serialization, ros-lunar-roscpp-traits, ros-lunar-rostime
+Description: Package modeling the run-time dependencies for language bindings of messages.
