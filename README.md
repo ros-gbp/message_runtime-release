@@ -1,3 +1,26 @@
+## message_runtime (melodic) - 0.4.12-0
+
+The packages in the `message_runtime` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic message_runtime` on `Mon, 29 Jan 2018 21:13:54 -0000`
+
+The `message_runtime` package was released.
+
+Version of package(s) in repository `message_runtime`:
+
+- upstream repository: https://github.com/ros/message_runtime.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.4.12-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## message_runtime (lunar) - 0.4.12-0
 
 The packages in the `message_runtime` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar message_runtime` on `Wed, 22 Feb 2017 19:49:34 -0000`
