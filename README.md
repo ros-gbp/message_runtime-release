@@ -1,3 +1,26 @@
+## message_runtime (noetic) - 0.4.13-1
+
+The packages in the `message_runtime` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic message_runtime` on `Mon, 27 Jan 2020 18:46:11 -0000`
+
+The `message_runtime` package was released.
+
+Version of package(s) in repository `message_runtime`:
+
+- upstream repository: https://github.com/ros/message_runtime.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.13-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## message_runtime (melodic) - 0.4.12-0
 
 The packages in the `message_runtime` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic message_runtime` on `Mon, 29 Jan 2018 21:13:54 -0000`
